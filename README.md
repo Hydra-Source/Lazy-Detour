@@ -1,6 +1,6 @@
 # Lazy Detour
 ## Whats this?
-``Lazy Detour is a single header file to easily manage and create hooks using the open source MinHook library which can be found below.``
+Lazy Detour is a single header file to easily manage and create hooks using the open source MinHook library which can be found below.
 ## Usage
 #### Detour Function
 ```c++
@@ -37,3 +37,5 @@ remove_all_hooks();
 //Or
 remove_hook("my_detour");
 ```
+
+MinHook: https://github.com/TsudaKageyu/minhook
